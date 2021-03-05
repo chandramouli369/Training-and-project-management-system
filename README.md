@@ -1,1 +1,1 @@
-# Training-and-project-management-system
+# Training-and-Project-Managemant-System
